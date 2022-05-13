@@ -1,0 +1,21 @@
+Change Component DesignItemId : Designator=U2 Old DesignItemId= New DesignItemId=DA-AC PCB ¼ÌµçÆ÷
+Change Component DesignItemId : Designator=D1 Old DesignItemId= New DesignItemId=SMBJ250CA
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SMB_L4.6-W3.6-LS5.3-BI"; UniqueID = "\gge0f79156b9dd84dc6" ("gge0f79156b9dd84dc6")
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "RUILON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SMBJ250CA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C9029"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "SMBJ250CA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "PMN5A/PMN5D"; UniqueID = "\gge12999d58597a1e6a" ("gge12999d58597a1e6a")
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "ENMG/¶÷¾ô"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "PMN5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "Coolrui"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "DA-AC PCB ¼ÌµçÆ÷"; VariantName = "[No Variations]"
+Added Class: Name=Sheet_1_2022-05-12
+Added Room: Name=Sheet_1_2022-05-12
