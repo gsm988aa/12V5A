@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=T2-7
+Removed Pin From Net: NetName=GND Pin=T2-9
+Removed Pin From Net: NetName=NETC6_1 Pin=T2-10
+Removed Pin From Net: NetName=NETC6_1 Pin=T2-12
+Change Component Footprint: Designator=LED1 Old Footprint=C0805 New Footprint=0805C
+Added Room: Name=PCB方案验证板  12V5A 60Wascii

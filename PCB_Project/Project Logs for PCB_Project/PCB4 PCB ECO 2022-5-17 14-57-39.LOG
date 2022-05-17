@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NETDB1_N Pin=DB1-L
+Removed Pin From Net: NetName=NETDB1_L Pin=DB1-N
+Removed Pin From Net: NetName=NETC3_2 Pin=U2-C
+Added Component: Designator=RN(0805-R)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "390/1206"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NETDB1_L Pin=DB1-L
+Added Pin To Net: NetName=NETDB1_N Pin=DB1-N
+Added Pin To Net: NetName=NETC3_2 Pin=RN-2
+Added Pin To Net: NetName=NetRN_1 Pin=RN-1
+Added Pin To Net: NetName=NetRN_1 Pin=U2-C
+Added Net: Name=NetRN_1
+Added Member To Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=Component RN 1K/0805
+Added Room: Name=PCB方案验证板  12V5A 60Wascii

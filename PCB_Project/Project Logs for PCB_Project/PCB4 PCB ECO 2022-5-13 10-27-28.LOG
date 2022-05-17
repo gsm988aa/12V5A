@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=VCC Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=U4-24
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U6-4
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C12
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C13
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C14
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C15
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=J1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=P4
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=TP1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=TP2
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=U4
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=U5
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=U6
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=V2
+Added Room: Name=PCB方案验证板  12V5A 60Wascii

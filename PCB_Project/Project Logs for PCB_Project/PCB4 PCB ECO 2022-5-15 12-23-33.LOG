@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NETF1_1 Pin=P1-1
+Removed Pin From Net: NetName=NETNR1_2 Pin=P1-2
+Added Pin To Net: NetName=NETNR1_2 Pin=P1-1
+Added Pin To Net: NetName=NETF1_1 Pin=P1-2
+Added Room: Name=PCB方案验证板  12V5A 60Wascii
