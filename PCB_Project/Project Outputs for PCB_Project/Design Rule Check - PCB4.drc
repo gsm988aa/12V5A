@@ -1,12 +1,12 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\gs\Desktop\12V5A\PCB_Project\PCB4.pcbdoc
-Date     : 2022/5/17
-Time     : 16:38:25
+Date     : 2022/5/18
+Time     : 14:32:29
 
-Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=40mil) (InPolygon),(All)
+Processing Rule : Clearance Constraint (Gap=10mil) (InPolygon),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,7 +15,7 @@ Rule Violations :0
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
-Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Processing Rule : Modified Polygon (Allow modified: Yes), (Allow shelved: No)
 Rule Violations :0
 
 Processing Rule : Width Constraint (Min=10mil) (Max=150mil) (Preferred=10mil) (All)
@@ -31,13 +31,7 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (5.432mil < 10mil) Between Pad C7-1(3445.806mil,2193.412mil) on Multi-Layer And Pad Free-(3358.268mil,2210.606mil) on Bottom Solder [Bottom Solder] Mask Sliver [5.432mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (8.006mil < 10mil) Between Pad Free-(3434.056mil,2479.606mil) on Bottom Solder And Pad Free-(3434.056mil,2546.606mil) on Bottom Solder [Bottom Solder] Mask Sliver [8.006mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (7.955mil < 10mil) Between Pad Free-(3434.056mil,2479.606mil) on Bottom Solder And Pad Free-(3500.984mil,2479.606mil) on Bottom Solder [Bottom Solder] Mask Sliver [7.955mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (5.799mil < 10mil) Between Pad Free-(3500.984mil,2479.606mil) on Bottom Solder And Pad Free-(3512.796mil,2404.606mil) on Bottom Solder [Bottom Solder] Mask Sliver [5.799mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (7.429mil < 10mil) Between Pad Free-(3675.198mil,2293.512mil) on Bottom Solder And Pad Free-(3698.646mil,2211.914mil) on Bottom Solder [Bottom Solder] Mask Sliver [7.429mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (7.749mil < 10mil) Between Pad LED1-1(3359.528mil,1835mil) on Bottom Layer And Pad LED1-2(3300.472mil,1835mil) on Bottom Layer [Bottom Solder] Mask Sliver [7.749mil]
-Rule Violations :6
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
 Rule Violations :0
@@ -52,6 +46,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=3149.606mil) (Prefered=500mi
 Rule Violations :0
 
 
-Violations Detected : 6
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01
