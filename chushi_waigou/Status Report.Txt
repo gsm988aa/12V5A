@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[PCB_chushi_waigou_3_2022-06-16-RoundHoles.TXT]
+   Generated File[PCB_chushi_waigou_3_2022-06-16-SlotHoles.TXT]
+   Generated File[PCB_chushi_waigou_3_2022-06-16.LDP]
+   Generated File[PCB_chushi_waigou_3_2022-06-16.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:51:43 On 2022/6/16

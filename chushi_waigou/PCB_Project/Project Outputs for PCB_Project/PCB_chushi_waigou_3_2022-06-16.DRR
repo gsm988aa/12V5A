@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_chushi_waigou_3_2022-06-16.pcbdoc   2022/6/16  16:53:16
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_chushi_waigou_3_2022-06-16-RoundHoles.TXT
+ASCII SlotHoles File : PCB_chushi_waigou_3_2022-06-16-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             8         PTH        5.14inch (130.54mm)
+T2      28mil (0.7mm)                                             Round             3         PTH        0.10inch (2.54mm)
+T3      30mil (0.75mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T4      36mil (0.914mm)                                           Round             52        PTH        6.76inch (171.82mm)
+T5      39mil (1mm)                                               Round             14        PTH        5.92inch (150.44mm)
+T6      59mil (1.5mm)                                             Round             4         PTH        3.90inch (99.16mm)
+T7      63mil (1.6mm)                                             Round             5         PTH        1.45inch (36.85mm)
+T8      79mil (2mm)                                               Round             4         PTH        2.59inch (65.90mm)
+T9      118mil (3mm)                                              Round             1         PTH        0.00inch (0.00mm)
+T10     125mil (3.175mm)                                          Slot              4         PTH        17.75inch (450.78mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              96
+
+Total Processing Time (hh:mm:ss) : 00:00:00

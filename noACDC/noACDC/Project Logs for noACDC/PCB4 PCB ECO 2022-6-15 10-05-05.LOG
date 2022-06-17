@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=VCC Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=VCC Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=VCC Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=LED1-2
+Removed Pin From Net: NetName=VCC Pin=R16-2
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=VCC Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=T2-7
+Removed Pin From Net: NetName=GND Pin=T2-8
+Removed Pin From Net: NetName=GND Pin=T2-9
+Removed Pin From Net: NetName=GND Pin=U3-A
+Removed Pin From Net: NetName=GND Pin=Y1-2
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C2
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C3
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C4
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C5
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C6
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C7
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C8
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C9
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C10
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=C11
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=D1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=D2
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=D3
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=D4
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=DB1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=F1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=L1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=LED1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=Lx1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=NR1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=P1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=Q1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R2
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R3
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R4
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R5
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R6
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R7
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R8
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R9
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R10
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R11
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R12
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R13
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R14
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R15
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R16
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R17
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=R18
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=Rf1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=Rg1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=RN
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=RX1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=RX2
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=RX3
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=RX4
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=T2
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=U1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=U2
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=U3
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=X1
+Removed Member From Class: ClassName=PCB方案验证板  12V5A 60Wascii Member=Y1
+Added Room: Name=PCB方案验证板  12V5A 60Wascii
